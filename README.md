@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinchris1&label=Profile%20views&color=0e75b6&style=flat" alt="austinchris1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iwuaustinchris1" target="blank"><img src="https://img.shields.io/twitter/follow/iwuaustinchris1?logo=twitter&style=for-the-badge" alt="iwuaustinchris1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AustinChrisIwu" target="blank"><img src="https://img.shields.io/twitter/follow/AustinChrisIwu?logo=twitter&style=for-the-badge" alt="AustinChrisIwu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iwuaustinchris1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iwuaustinchris1" height="30" width="40" /></a>
+<a href="https://twitter.com/AustinChrisIwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iwuaustinchris1" height="30" width="40" /></a>
 <a href="https://instagram.com/iwuaustinchris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwuaustinchris" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/austinchrisiwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="austinchrisiwu" height="30" width="40" /></a>
 </p>
