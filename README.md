@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinchris1&label=Profile%20views&color=0e75b6&style=flat" alt="austinchris1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AustinChris_" target="blank"><img src="https://img.shields.io/twitter/follow/AustinChrisIwu?logo=twitter&style=for-the-badge" alt="AustinChrisIwu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AustinChris_" target="blank"><img src="https://img.shields.io/twitter/follow/AustinChris_?logo=twitter&style=for-the-badge" alt="Austin Chris" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
