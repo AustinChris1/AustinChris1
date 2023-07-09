@@ -1,5 +1,6 @@
 
 ## Hi there 👋, I'm Austin Chris
+## Electrical Electronics Engineering Student
 ## Full stack web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinchris1&label=Profile%20views&color=0e75b6&style=flat" alt="austinchris1" /> </p>
