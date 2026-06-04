@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Austin Chris  
-### 👨‍🎓 Electrical Electronics Engineering Student | 🌐 Full-Stack Developer  
+# Hi there 👋, I'm Austin Chris
+
+### 👨‍💻 B.Eng. Electrical & Electronics Engineering | Full-Stack Developer & Embedded Systems Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=austinchris1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,9 +9,12 @@
   </a>
 </p>
 
+I build full-stack web applications and have a background in electrical and electronics engineering. I enjoy working across the stack, from designing interfaces to setting up backends and databases, and I occasionally cross into hardware territory with Arduino and ESP32 projects.
+
 ---
 
 ## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://twitter.com/AustinChris_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
@@ -25,8 +29,9 @@
 
 ---
 
-## 🛠️ Languages and Tools  
-### Programming Languages  
+## 🛠️ Languages and Tools
+
+### Programming Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -42,7 +47,7 @@
   </a>
 </p>
 
-### Frontend Development  
+### Frontend Development
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
@@ -61,7 +66,7 @@
   </a>
 </p>
 
-### Backend Development  
+### Backend Development
 <p align="left">
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" />
@@ -71,7 +76,7 @@
   </a>
 </p>
 
-### Databases  
+### Databases
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
@@ -81,7 +86,7 @@
   </a>
 </p>
 
-### Tools and Platforms  
+### Tools and Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -93,19 +98,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-</a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
   </a>
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-  <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" alt="Espressif" width="80" height="40" />
-</a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" alt="Espressif" width="80" height="40" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=austinchris1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
