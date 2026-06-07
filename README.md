@@ -3,21 +3,31 @@
 ### 👨‍💻 B.Eng. Electrical & Electronics Engineering | Full-Stack Developer & Embedded Systems Engineer
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=austinchris1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://twitter.com/AustinChris_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AustinChris_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <img src="https://komarev.com/ghpvc/?username=AustinChris1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://austinchris.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-austinchris.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/AustinChris_" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_X-@AustinChris__-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
   </a>
 </p>
 
-I build full-stack web applications and have a background in electrical and electronics engineering. I enjoy working across the stack, from designing interfaces to setting up backends and databases, and I occasionally cross into hardware territory with Arduino and ESP32 projects.
+I build cinematic web experiences and IoT systems. My background is in electrical and electronics engineering, so I work comfortably across the stack, from designing interfaces to setting up backends and databases, and I like crossing into hardware territory with Arduino and ESP32 projects.
+
+- 🌐 Portfolio: [austinchris.vercel.app](https://austinchris.vercel.app/)
+- 🔭 Currently building full-stack web apps with React, Laravel and Node.js
+- ⚡ When I'm not writing code, I'm probably tinkering with an ESP32
 
 ---
 
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/AustinChris_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://austinchris.vercel.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+  <a href="https://x.com/AustinChris_" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/888888" alt="X" height="30" width="40" />
   </a>
   <a href="https://instagram.com/iwuaustinchris" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -86,6 +96,16 @@ I build full-stack web applications and have a background in electrical and elec
   </a>
 </p>
 
+### Embedded & Hardware
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  </a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" alt="ESP32" width="80" height="40" />
+  </a>
+</p>
+
 ### Tools and Platforms
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
@@ -100,12 +120,6 @@ I build full-stack web applications and have a background in electrical and elec
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-    <img src="https://www.espressif.com/sites/all/themes/espressif/logo.png" alt="Espressif" width="80" height="40" />
-  </a>
 </p>
 
 ---
@@ -113,9 +127,17 @@ I build full-stack web applications and have a background in electrical and elec
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=austinchris1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://readmestats.999857.xyz/api?username=AustinChris1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AustinChris1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=AustinChris1&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=AustinChris1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AustinChris1&theme=redical&hide_border=true" alt="Contribution Graph" />
 </p>
