@@ -12,7 +12,7 @@
   </a>
 </p>
 
-I build cinematic web experiences and IoT systems. My background is in electrical and electronics engineering, so I work comfortably across the stack, from designing interfaces to setting up backends and databases, and I like crossing into hardware territory with Arduino and ESP32 projects.
+I'm a full-stack developer with a background in electrical and electronics engineering. I build web apps from the interface down to the backend and database, and I sometimes cross into hardware with Arduino and ESP32 projects.
 
 - 🌐 Portfolio: [austinchris.vercel.app](https://austinchris.vercel.app/)
 - 🔭 Currently building full-stack web apps with React, Laravel and Node.js
