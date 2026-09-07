@@ -14,7 +14,7 @@
 
 I'm a full-stack developer with a background in electrical and electronics engineering. I build web apps from the interface down to the backend and database, and I sometimes cross into hardware with Arduino and ESP32 projects.
 
-- 🌐 Portfolio: [austinchris.vercel.app](https://austinchris.me/)
+- 🌐 Portfolio: [austinchris.me](https://austinchris.me/)
 - 🔭 Currently building full-stack web apps with React, Laravel and Node.js
 - ⚡ When I'm not writing code, I'm probably tinkering with an ESP32
 
@@ -23,7 +23,7 @@ I'm a full-stack developer with a background in electrical and electronics engin
 ## 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://austinchris.vercel.app/" target="_blank">
+  <a href="https://austinchris.me/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" height="30" width="40" />
   </a>
   <a href="https://x.com/AustinChris_" target="_blank">
