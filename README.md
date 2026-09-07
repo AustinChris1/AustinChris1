@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AustinChris1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://austinchris.vercel.app/" target="_blank">
+  <a href="https://austinchris.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-austinchris.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://x.com/AustinChris_" target="_blank">
@@ -14,7 +14,7 @@
 
 I'm a full-stack developer with a background in electrical and electronics engineering. I build web apps from the interface down to the backend and database, and I sometimes cross into hardware with Arduino and ESP32 projects.
 
-- 🌐 Portfolio: [austinchris.vercel.app](https://austinchris.vercel.app/)
+- 🌐 Portfolio: [austinchris.vercel.app](https://austinchris.me/)
 - 🔭 Currently building full-stack web apps with React, Laravel and Node.js
 - ⚡ When I'm not writing code, I'm probably tinkering with an ESP32
 
